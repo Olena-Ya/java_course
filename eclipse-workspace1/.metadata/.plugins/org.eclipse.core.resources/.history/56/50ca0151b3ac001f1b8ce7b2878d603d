@@ -1,0 +1,29 @@
+
+public class strings1 {
+
+	static int aa = 38;
+	//Methods
+	
+	public String getData11() {
+		
+		System.out.println("I am in the method getData11");
+		return "getData11";
+	}
+	
+	
+	//revert String
+	public Boolean revertString(){
+		String test = "Test is Palindrome";
+		String newString = "";
+		return test == newString; 
+	}
+	
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

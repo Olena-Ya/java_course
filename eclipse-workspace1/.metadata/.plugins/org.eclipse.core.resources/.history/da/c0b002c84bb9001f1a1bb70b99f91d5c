@@ -1,0 +1,12 @@
+package abstract_Class;
+
+public abstract class Abstract_Class {
+
+	
+	public void AircraftSafetyGuidelines () {
+		System.out.println();	}
+	
+	public void EngineGuidelines () {
+		System.out.println();	}
+	
+}

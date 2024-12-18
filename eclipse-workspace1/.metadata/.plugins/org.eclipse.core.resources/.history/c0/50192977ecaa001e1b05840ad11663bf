@@ -1,0 +1,18 @@
+package Reused_methods;
+
+import test1.Reused_methods;
+
+public class Reused_methods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Reused_methods d =  new Reused_methods();
+		d.helloWorld();
+	}
+	
+	
+	public static void helloWorld() {
+		System.out.println(" Hello World!");
+}
+
+}

@@ -1,0 +1,4 @@
+
+public class interfaces_implementation  implements CentralTraffic, ContinentalTraffic{
+
+}
