@@ -1,0 +1,22 @@
+package smallest_number_in_matrix;
+
+public class matrix {
+
+public  void array () {
+	int a[][] = {{2,4,5},{3,4,7},{1,2,9}};
+	
+	for (int i=0; i<a.length; i++) {
+		for (int j=0; j<a[i].length; i++) {
+		System.out.print(a[i][j] + " ");
+		}
+		
+		System.out.println();
+	}
+} 
+
+public static void main (String[] args) {
+	matrix matrixArray = new matrix();
+	matrixArray.array();
+}
+
+}
