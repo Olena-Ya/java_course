@@ -2722,3 +2722,12 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.embedder.ILo
 2025-01-03 11:01:20,812 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\java_course\eclipse-workspace1\test_1_20.12.2023\src\main\resources
 2025-01-03 11:01:20,816 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-01-03 11:01:20,819 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\java_course\eclipse-workspace1\test_1_20.12.2023\src\test\resources
+2025-01-10 11:59:05,130 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-10 14:39:41,308 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-10 14:39:41,347 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\eclipse-workspace\test1\src\main\resources
+2025-01-10 14:39:41,359 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-10 14:39:41,363 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\eclipse-workspace\test1\src\test\resources
+2025-01-10 14:39:47,976 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-10 14:39:47,989 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\java_course\eclipse-workspace1\test_1_20.12.2023\src\main\resources
+2025-01-10 14:39:47,999 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-10 14:39:48,007 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\YakovliO\java_course\eclipse-workspace1\test_1_20.12.2023\src\test\resources

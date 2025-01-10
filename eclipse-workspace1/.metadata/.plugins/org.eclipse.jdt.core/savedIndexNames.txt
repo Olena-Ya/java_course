@@ -32,7 +32,6 @@ INDEX VERSION 1.134+C:\Users\YakovliO\java_course\eclipse-workspace1\.metadata\.
 343326577.index
 1319413666.index
 2403216861.index
-1642169604.index
 3011715355.index
 3147976310.index
 3402354838.index
